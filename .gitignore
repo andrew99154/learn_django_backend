@@ -1,2 +1,3 @@
 venv/
 learn_django_no_ninja.code-workspace
+__pycache__/
